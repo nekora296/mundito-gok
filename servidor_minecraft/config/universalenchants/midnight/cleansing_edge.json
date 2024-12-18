@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "mowziesmobs:spear",
+    "mowziesmobs:naga_fang_dagger",
+    "mutantmonsters:endersoul_hand",
+    "aether_redux:spear_of_the_blight",
+    "twilightforest:block_and_chain",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:gauntlet_of_bulwark",
+    "cataclysm:gauntlet_of_maelstrom",
+    "cataclysm:the_incinerator",
+    "cataclysm:soul_render",
+    "cataclysm:the_annihilator",
+    "cataclysm:the_immolator",
+    "cataclysm:meat_shredder",
+    "cataclysm:void_forge",
+    "cataclysm:tidal_claws",
+    "cataclysm:infernal_forge",
+    "cataclysm:ancient_spear",
+    "mahoutsukai:proximity_projection_keys"
+  ],
+  "incompatible": [
+    "minecraft:sharpness",
+    "minecraft:smite",
+    "deeperdarker:sculk_smite",
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:bane_of_arthropods"
+  ]
+}

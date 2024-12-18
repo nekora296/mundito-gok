@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor",
+    "tombstone:christmas_hat",
+    "tombstone:rabbit_mask",
+    "mutantmonsters:mutant_skeleton_skull",
+    "lost_aether_content:swetty_mask"
+  ],
+  "incompatible": [
+    "minecraft:protection",
+    "minecraft:feather_falling",
+    "minecraft:projectile_protection",
+    "minecraft:blast_protection",
+    "minecraft:fire_protection",
+    "majruszsenchantments:incompatibility_curse"
+  ]
+}

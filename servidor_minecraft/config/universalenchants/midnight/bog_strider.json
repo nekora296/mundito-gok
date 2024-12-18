@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_feet",
+    "alexsmobs:pigshoes"
+  ],
+  "incompatible": [
+    "minecraft:soul_speed",
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse"
+  ]
+}

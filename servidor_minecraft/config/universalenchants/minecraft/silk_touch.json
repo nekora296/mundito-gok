@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "twilightforest:block_and_chain"
+  ],
+  "incompatible": [
+    "minecraft:looting",
+    "majruszsenchantments:smelter",
+    "minecraft:luck_of_the_sea",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:fortune"
+  ]
+}
