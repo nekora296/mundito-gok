@@ -2837,3 +2837,14 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [18Dec2024 02:30:23.017] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [18Dec2024 02:30:32.563] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/silentchaos512/lib/advancements/UseItemTrigger$Target
 [18Dec2024 02:30:57.674] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/alrex/parcool/common/network/SyncActionStateMessage$DataType
+[18Dec2024 02:32:28.568] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[18Dec2024 02:32:46.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xX_nekouraxD_Xx: Applied effect Saturation to xX_nekouraxD_Xx]
+[18Dec2024 02:33:59.323] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[18Dec2024 02:33:59.324] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[18Dec2024 02:33:59.328] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[18Dec2024 02:34:38.970] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[18Dec2024 02:34:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xX_nekouraxD_Xx: Set the time to 1000]
+[18Dec2024 02:35:17.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xX_nekouraxD_Xx: The difficulty has been set to Peaceful]
+[18Dec2024 02:39:05.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xX_nekouraxD_Xx lost connection: Disconnected
+[18Dec2024 02:39:05.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx left the game
+[18Dec2024 02:39:05.673] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ff4ae6bc-ecde-3b9d-bca1-ab72391660b6 was unloaded
