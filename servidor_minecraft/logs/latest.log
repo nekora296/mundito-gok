@@ -2749,3 +2749,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Dec2024 02:22:14.854] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [19Dec2024 02:22:14.854] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [19Dec2024 02:22:15.173] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[19Dec2024 02:23:23.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [It Belongs in a Museum]
+[19Dec2024 02:25:54.738] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[19Dec2024 02:25:54.738] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[19Dec2024 02:25:54.743] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
