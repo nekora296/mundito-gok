@@ -2750,3 +2750,25 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Dec2024 02:55:47.671] [Server thread/INFO] [do_a_barrel_roll/]: Client of Luntiuk accepted server config.
 [19Dec2024 02:56:16.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Suit Up]
 [19Dec2024 02:56:19.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Luntiuk'/6497, l='ServerLevel[world]', x=-17.30, y=58.00, z=145.30] died: Zombie Player was slain by Luntiuk
+[19Dec2024 02:56:31.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Who You Gonna Call?]
+[19Dec2024 02:57:21.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DrownedPlayer['xX_nekouraxD_Xx'/6641, l='ServerLevel[world]', x=483.07, y=61.08, z=534.52] died: Drowned Player was slain by xX_nekouraxD_Xx
+[19Dec2024 02:59:02.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[19Dec2024 02:59:02.926] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[19Dec2024 03:00:32.957] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[19Dec2024 03:00:39.160] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[19Dec2024 03:02:00.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk has made the advancement [A Strange Grave Dust]
+[19Dec2024 03:02:06.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xX_nekouraxD_Xx moved too quickly! 3.2152060573399694,-0.6200000047683716,-9.5441904538078
+[19Dec2024 03:02:06.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[19Dec2024 03:02:26.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xX_nekouraxD_Xx moved too quickly! 6.50151989893493,1.0,-7.886331040405594
+[19Dec2024 03:02:26.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luntiuk moved too quickly! 5.863801611961833,0.8322033789618759,8.154406131083991
+[19Dec2024 03:02:26.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4058ms or 81 ticks behind
+[19Dec2024 03:02:52.313] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[19Dec2024 03:02:52.314] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[19Dec2024 03:02:52.318] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[19Dec2024 03:03:05.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[19Dec2024 03:03:26.202] [dimthread_server_overworld/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=950, y=122, z=207}
+[19Dec2024 03:03:45.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xX_nekouraxD_Xx moved too quickly! 4.357035420324564,-2.5074599733473093,-8.718983817091328
+[19Dec2024 03:03:45.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3172ms or 63 ticks behind
+[19Dec2024 03:06:24.451] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[19Dec2024 03:06:25.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[19Dec2024 03:06:25.800] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
