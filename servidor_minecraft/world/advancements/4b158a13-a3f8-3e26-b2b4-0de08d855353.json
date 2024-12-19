@@ -371,6 +371,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:sakura_grove": "2024-12-19 01:25:06 +0000",
       "biomeswevegone:temperate_grove": "2024-12-19 00:49:01 +0000",
       "biomeswevegone:forgotten_forest": "2024-12-19 01:23:01 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-19 00:45:19 +0000"
@@ -669,73 +670,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:24:20 +0000"
+      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:24:20 +0000"
+      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:24:20 +0000"
+      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:24:20 +0000"
+      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:24:20 +0000"
+      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:24:20 +0000"
+      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:24:20 +0000"
+      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:24:20 +0000"
+      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:24:20 +0000"
+      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:24:20 +0000"
+      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:24:20 +0000"
+      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:24:20 +0000"
+      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
     },
     "done": false
   },
@@ -745,9 +746,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2024-12-19 01:25:19 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-19 01:29:18 +0000"
     },
     "done": true
   },
@@ -817,6 +830,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 01:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-19 01:29:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "rocky_shrubland": "2024-12-19 01:21:06 +0000"
@@ -841,6 +866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 01:25:19 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
@@ -859,6 +890,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-19 01:28:27 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
@@ -874,6 +911,12 @@
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 01:27:47 +0000"
     },
     "done": true
   },
@@ -961,6 +1004,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-12-19 01:28:32 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
@@ -976,6 +1025,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2024-12-19 01:25:19 +0000"
     },
     "done": true
   },
@@ -1015,6 +1070,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 01:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 01:23:39 +0000"
@@ -1030,6 +1091,12 @@
   "biomeswevegone:recipes/transportation/baobab_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2024-12-19 01:29:18 +0000"
     },
     "done": true
   },
@@ -1054,6 +1121,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-19 01:23:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-19 01:29:18 +0000"
     },
     "done": true
   },
@@ -1087,6 +1160,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-19 01:25:19 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_leather_canteen": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2024-12-19 01:25:19 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/crystal_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
@@ -1114,6 +1205,18 @@
   "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
     "criteria": {
       "has_birch_plank": "2024-12-19 01:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-19 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 01:25:19 +0000"
     },
     "done": true
   },
@@ -1145,13 +1248,28 @@
     "criteria": {
       "rocky_shrubland": "2024-12-19 01:21:06 +0000",
       "highland": "2024-12-19 01:23:45 +0000",
-      "orchard": "2024-12-19 01:23:09 +0000"
+      "orchard": "2024-12-19 01:23:09 +0000",
+      "lavender_forest": "2024-12-19 01:25:14 +0000",
+      "redwood_forest": "2024-12-19 01:34:29 +0000",
+      "lavender_field": "2024-12-19 01:33:45 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 01:25:19 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:recipes/transportation/florus_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 01:25:19 +0000"
     },
     "done": true
   },
@@ -1164,6 +1282,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2024-12-19 01:29:18 +0000"
     },
     "done": true
   },
@@ -1236,6 +1360,12 @@
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2024-12-19 01:20:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2024-12-19 01:29:18 +0000"
     },
     "done": true
   },

@@ -2910,3 +2910,35 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Dec2024 01:28:39.809] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [19Dec2024 01:28:39.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Isn't It Iron Pick]
 [19Dec2024 01:28:44.851] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Acquire Hardware]
+[19Dec2024 01:29:55.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[19Dec2024 01:30:05.264] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[19Dec2024 01:30:05.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [A Strange Grave Dust]
+[19Dec2024 01:30:06.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xX_nekouraxD_Xx moved wrongly!
+[19Dec2024 01:30:10.903] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[19Dec2024 01:30:17.426] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[19Dec2024 01:30:18.313] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Knowledge of Death]
+[19Dec2024 01:30:18.313] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has reached the goal [Strong or Careful]
+[19Dec2024 01:30:18.314] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was blown up by Creeper
+[19Dec2024 01:30:18.319] [dimthread_server_overworld/WARN] [tombstone/]: The drop event of the player xX_nekouraxD_Xx was canceled by another mod
+[19Dec2024 01:30:18.334] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[19Dec2024 01:30:19.938] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 01:30:19.939] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[19Dec2024 01:30:19.941] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[19Dec2024 01:30:20.167] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[19Dec2024 01:30:43.105] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[19Dec2024 01:30:43.107] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[19Dec2024 01:30:43.114] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[19Dec2024 01:31:43.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has reached the goal [Here They Come]
+[19Dec2024 01:32:10.590] [dimthread_server_overworld/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-109, y=63, z=448}
+[19Dec2024 01:33:17.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx bled to death
+[19Dec2024 01:33:17.308] [Server thread/WARN] [tombstone/]: The drop event of the player xX_nekouraxD_Xx was canceled by another mod
+[19Dec2024 01:33:17.313] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[19Dec2024 01:33:18.734] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 01:33:18.735] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[19Dec2024 01:33:19.026] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[19Dec2024 01:34:37.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xX_nekouraxD_Xx lost connection: Disconnected
+[19Dec2024 01:34:37.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx left the game
+[19Dec2024 01:34:37.950] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ff4ae6bc-ecde-3b9d-bca1-ab72391660b6 was unloaded
+[19Dec2024 01:38:04.404] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk has made the advancement [No Hard Feelings]
+[19Dec2024 01:38:04.405] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk has made the advancement [Not Today, Thank You]
+[19Dec2024 01:38:06.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk has made the advancement [Monster Hunter]
