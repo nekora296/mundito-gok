@@ -670,73 +670,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
+      "log_spam_fixer": "2024-12-19 01:44:31 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
+      "log_spam_fixer": "2024-12-19 01:44:31 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
+      "log_spam_fixer": "2024-12-19 01:44:31 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
+      "log_spam_fixer": "2024-12-19 01:44:31 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
+      "log_spam_fixer": "2024-12-19 01:44:31 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
+      "log_spam_fixer": "2024-12-19 01:44:31 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
+      "log_spam_fixer": "2024-12-19 01:44:31 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
+      "log_spam_fixer": "2024-12-19 01:44:31 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
+      "log_spam_fixer": "2024-12-19 01:44:31 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
+      "log_spam_fixer": "2024-12-19 01:44:31 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
+      "log_spam_fixer": "2024-12-19 01:44:31 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 01:34:22 +0000"
+      "log_spam_fixer": "2024-12-19 01:44:31 +0000"
     },
     "done": false
   },
@@ -764,9 +764,21 @@
     },
     "done": true
   },
+  "midnight:story/deflect_with_rockshroom_shield": {
+    "criteria": {
+      "deflect_projectile": "2024-12-19 01:38:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-19 01:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-19 01:38:04 +0000"
     },
     "done": true
   },
@@ -962,15 +974,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 01:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 01:36:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 01:36:49 +0000"
     },
     "done": true
   },
@@ -1004,9 +1034,16 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-19 01:38:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2024-12-19 01:28:32 +0000"
+      "cooked_porkchop": "2024-12-19 01:28:32 +0000",
+      "cooked_beef": "2024-12-19 01:41:46 +0000"
     },
     "done": false
   },
@@ -1052,6 +1089,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-19 01:38:06 +0000",
+      "minecraft:creeper": "2024-12-19 01:39:17 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
@@ -1079,6 +1123,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 01:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 01:36:46 +0000"
     },
     "done": true
   },
@@ -1282,6 +1332,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-19 01:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-19 01:35:59 +0000"
     },
     "done": true
   },
