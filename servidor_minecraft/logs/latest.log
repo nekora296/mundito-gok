@@ -2772,3 +2772,18 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Dec2024 03:06:24.451] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
 [19Dec2024 03:06:25.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
 [19Dec2024 03:06:25.800] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[19Dec2024 03:08:51.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk has made the advancement [Ashes 'n Bones]
+[19Dec2024 03:09:09.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Light Up The World!]
+[19Dec2024 03:09:50.012] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk has made the advancement [What Was That!?]
+[19Dec2024 03:10:32.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luntiuk moved too quickly! 1.9608265209799356,2.9755758646341306,-9.582045233779183
+[19Dec2024 03:10:32.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10043ms or 200 ticks behind
+[19Dec2024 03:10:39.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk has made the advancement [Diamonds!]
+[19Dec2024 03:12:54.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk died of thirst
+[19Dec2024 03:12:54.969] [Server thread/WARN] [tombstone/]: The drop event of the player Luntiuk was canceled by another mod
+[19Dec2024 03:12:54.969] [Server thread/INFO] [tombstone/]: The player Luntiuk has successfully been saved
+[19Dec2024 03:12:56.441] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 03:12:56.441] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[19Dec2024 03:12:56.619] [Server thread/INFO] [do_a_barrel_roll/]: Client of Luntiuk accepted server config.
+[19Dec2024 03:13:03.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Luntiuk'/18766, l='ServerLevel[world]', x=382.70, y=-54.00, z=-158.30] died: Zombie Player was slain by Luntiuk
+[19Dec2024 03:13:05.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk has made the advancement [Hot Stuff]
+[19Dec2024 03:14:30.353] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
