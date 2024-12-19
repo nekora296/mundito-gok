@@ -2787,3 +2787,38 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Dec2024 03:13:03.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Luntiuk'/18766, l='ServerLevel[world]', x=382.70, y=-54.00, z=-158.30] died: Zombie Player was slain by Luntiuk
 [19Dec2024 03:13:05.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk has made the advancement [Hot Stuff]
 [19Dec2024 03:14:30.353] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[19Dec2024 03:18:48.148] [dimthread_server_overworld/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=994, y=161, z=-159}
+[19Dec2024 03:22:08.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx walked into fire whilst fighting Fire Dragon
+[19Dec2024 03:22:08.521] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[19Dec2024 03:22:08.530] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[19Dec2024 03:22:10.608] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 03:22:10.609] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[19Dec2024 03:22:11.823] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[19Dec2024 03:22:14.014] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[19Dec2024 03:22:45.408] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Fire Dragon
+[19Dec2024 03:22:45.423] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[19Dec2024 03:22:46.985] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 03:22:46.986] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[19Dec2024 03:22:47.218] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[19Dec2024 03:23:01.111] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Fire Dragon
+[19Dec2024 03:23:01.122] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[19Dec2024 03:23:02.514] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 03:23:02.515] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[19Dec2024 03:23:02.816] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[19Dec2024 03:23:36.415] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Fire Dragon
+[19Dec2024 03:23:36.426] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[19Dec2024 03:23:37.688] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 03:23:37.688] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[19Dec2024 03:23:37.974] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[19Dec2024 03:23:55.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=93, z=-28} BlockPos{x=342, y=92, z=-28}
+[19Dec2024 03:24:02.069] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was incinerated by Fire Dragon
+[19Dec2024 03:24:02.099] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[19Dec2024 03:24:03.217] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 03:24:03.218] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[19Dec2024 03:24:03.419] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[19Dec2024 03:25:15.791] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=43}
+[19Dec2024 03:25:15.792] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-58, z=45}
+[19Dec2024 03:25:15.792] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-58, z=48}
+[19Dec2024 03:25:15.792] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=-58, z=49}
+[19Dec2024 03:25:15.792] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-58, z=50}
+[19Dec2024 03:25:15.792] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
