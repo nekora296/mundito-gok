@@ -2883,3 +2883,10 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Dec2024 00:58:42.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luntiuk lost connection: Disconnected
 [19Dec2024 00:58:42.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk left the game
 [19Dec2024 00:58:42.495] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b158a13-a3f8-3e26-b2b4-0de08d855353 was unloaded
+[19Dec2024 00:59:20.843] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[19Dec2024 00:59:21.747] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Is this... blood?]
+[19Dec2024 00:59:24.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Monster Hunter]
+[19Dec2024 01:01:19.993] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[19Dec2024 01:01:21.491] [Worker-Main-24/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[19Dec2024 01:07:50.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has reached the goal [Malign Magnetism]
+[19Dec2024 01:09:43.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Forager]
