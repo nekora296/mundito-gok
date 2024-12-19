@@ -2890,3 +2890,23 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Dec2024 01:01:21.491] [Worker-Main-24/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
 [19Dec2024 01:07:50.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has reached the goal [Malign Magnetism]
 [19Dec2024 01:09:43.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Forager]
+[19Dec2024 01:20:31.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luntiuk[/127.254.171.134:51385] logged in with entity id 9066 at (-38.30000001192093, 63.0, -25.355483042573038)
+[19Dec2024 01:20:31.370] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Luntiuk
+[19Dec2024 01:20:31.370] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Luntiuk
+[19Dec2024 01:20:31.371] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Luntiuk
+[19Dec2024 01:20:31.371] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Luntiuk
+[19Dec2024 01:20:31.374] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Luntiuk
+[19Dec2024 01:20:31.378] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Luntiuk
+[19Dec2024 01:20:31.378] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Luntiuk
+[19Dec2024 01:20:31.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk joined the game
+[19Dec2024 01:20:31.857] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b158a13-a3f8-3e26-b2b4-0de08d855353 was loaded
+[19Dec2024 01:20:33.051] [Server thread/INFO] [do_a_barrel_roll/]: Client of Luntiuk accepted server config.
+[19Dec2024 01:21:36.444] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[19Dec2024 01:22:41.640] [dimthread_server_overworld/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-61, y=86, z=207}
+[19Dec2024 01:23:53.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Getting an Upgrade]
+[19Dec2024 01:24:59.700] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[19Dec2024 01:25:19.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk has made the advancement [Bloodthirsty]
+[19Dec2024 01:26:37.498] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[19Dec2024 01:28:39.809] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[19Dec2024 01:28:39.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Isn't It Iron Pick]
+[19Dec2024 01:28:44.851] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Acquire Hardware]
