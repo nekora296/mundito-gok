@@ -2713,3 +2713,39 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Dec2024 02:12:11.626] [dimthread_server_overworld/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=197, y=72, z=514}
 [19Dec2024 02:12:22.078] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
 [19Dec2024 02:12:22.080] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[19Dec2024 02:12:55.136] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[19Dec2024 02:16:11.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Enderman
+[19Dec2024 02:16:11.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[19Dec2024 02:16:11.270] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[19Dec2024 02:16:13.213] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 02:16:13.213] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[19Dec2024 02:16:13.706] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[19Dec2024 02:16:26.997] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[19Dec2024 02:16:26.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Knowledge raises the soul]
+[19Dec2024 02:16:30.692] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[19Dec2024 02:17:11.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Enderman
+[19Dec2024 02:17:11.148] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[19Dec2024 02:17:12.635] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 02:17:12.635] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[19Dec2024 02:17:12.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [The Most Useful Key]
+[19Dec2024 02:17:12.844] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[19Dec2024 02:17:23.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Enderman
+[19Dec2024 02:17:23.502] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[19Dec2024 02:17:24.984] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 02:17:24.984] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[19Dec2024 02:17:25.255] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[19Dec2024 02:19:16.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Chest Slayer]
+[19Dec2024 02:19:17.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Amateur Archaeologist]
+[19Dec2024 02:19:24.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Ashes 'n Bones]
+[19Dec2024 02:19:29.786] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[19Dec2024 02:19:57.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Magic Writing]
+[19Dec2024 02:20:59.588] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[19Dec2024 02:21:01.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luntiuk lost connection: Disconnected
+[19Dec2024 02:21:01.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luntiuk left the game
+[19Dec2024 02:21:01.287] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b158a13-a3f8-3e26-b2b4-0de08d855353 was unloaded
+[19Dec2024 02:21:51.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Alex's Caves]
+[19Dec2024 02:22:13.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Mimic
+[19Dec2024 02:22:13.340] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[19Dec2024 02:22:14.854] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Dec2024 02:22:14.854] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[19Dec2024 02:22:15.173] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
