@@ -2841,3 +2841,26 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Dec2024 04:45:28.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CHVERIN (482568a9-e9d1-3be4-84e4-0eeb14511e93) successfully connected to voice chat
 [20Dec2024 04:45:43.913] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [20Dec2024 04:45:43.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xX_nekouraxD_Xx> grupo
+[20Dec2024 04:52:57.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHVERIN lost connection: Disconnected
+[20Dec2024 04:52:57.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHVERIN left the game
+[20Dec2024 04:52:57.297] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 482568a9-e9d1-3be4-84e4-0eeb14511e93 was unloaded
+[20Dec2024 04:52:57.299] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CHVERIN
+[20Dec2024 04:56:34.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHVERIN[/127.184.113.71:59149] logged in with entity id 7650 at (2196.336268860999, 66.5, -473.68679691766704)
+[20Dec2024 04:56:34.868] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to CHVERIN
+[20Dec2024 04:56:34.869] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to CHVERIN
+[20Dec2024 04:56:34.869] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to CHVERIN
+[20Dec2024 04:56:34.869] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to CHVERIN
+[20Dec2024 04:56:34.872] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to CHVERIN
+[20Dec2024 04:56:34.874] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to CHVERIN
+[20Dec2024 04:56:34.874] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to CHVERIN
+[20Dec2024 04:56:34.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHVERIN joined the game
+[20Dec2024 04:56:39.598] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CHVERIN (18)
+[20Dec2024 04:56:39.598] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CHVERIN
+[20Dec2024 04:56:39.751] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 482568a9-e9d1-3be4-84e4-0eeb14511e93 was loaded
+[20Dec2024 04:56:41.634] [Server thread/INFO] [do_a_barrel_roll/]: Client of CHVERIN accepted server config.
+[20Dec2024 04:56:44.545] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 482568a9-e9d1-3be4-84e4-0eeb14511e93
+[20Dec2024 04:56:45.613] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 482568a9-e9d1-3be4-84e4-0eeb14511e93
+[20Dec2024 04:56:45.614] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CHVERIN (482568a9-e9d1-3be4-84e4-0eeb14511e93) successfully connected to voice chat
+[20Dec2024 04:58:14.944] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: MimicEntity['Mimic'/7723, l='ServerLevel[world]', x=2052.50, y=23.50, z=-340.50]
+[20Dec2024 04:58:36.750] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[20Dec2024 05:00:10.163] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
