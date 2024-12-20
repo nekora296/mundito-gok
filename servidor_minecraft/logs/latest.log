@@ -3000,3 +3000,16 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Dec2024 05:11:53.196] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
 [20Dec2024 05:18:03.158] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
 [20Dec2024 05:19:43.245] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[20Dec2024 05:22:46.402] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Zombie
+[20Dec2024 05:22:46.411] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[20Dec2024 05:22:47.864] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Dec2024 05:22:47.865] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[20Dec2024 05:22:48.168] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[20Dec2024 05:31:58.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has reached the goal [Bone Crusher]
+[20Dec2024 05:33:59.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[20Dec2024 05:36:14.598] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was blown up by Creeper
+[20Dec2024 05:36:14.608] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[20Dec2024 05:36:16.310] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Dec2024 05:36:16.311] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[20Dec2024 05:36:16.525] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[20Dec2024 05:38:18.271] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{xX_nekouraxD_Xx})
