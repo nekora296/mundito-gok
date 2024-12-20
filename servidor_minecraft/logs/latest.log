@@ -2990,3 +2990,13 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Dec2024 05:06:27.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 4.488339743028519,0.0,-25.997149876840467
 [20Dec2024 05:07:37.700] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [20Dec2024 05:08:23.447] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Tie me to the Mast]
+[20Dec2024 05:11:01.801] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has reached the goal [Postmortal]
+[20Dec2024 05:11:01.807] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[20Dec2024 05:11:02.452] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Skeleton
+[20Dec2024 05:11:02.466] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[20Dec2024 05:11:04.395] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Dec2024 05:11:04.395] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[20Dec2024 05:11:04.808] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[20Dec2024 05:11:53.196] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[20Dec2024 05:18:03.158] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[20Dec2024 05:19:43.245] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction

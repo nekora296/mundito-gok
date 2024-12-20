@@ -1137,6 +1137,7 @@
       "minecraft:spider": "2024-12-19 00:59:24 +0000",
       "minecraft:creeper": "2024-12-19 03:59:17 +0000",
       "minecraft:evoker": "2024-12-19 04:57:33 +0000",
+      "minecraft:husk": "2024-12-20 05:10:56 +0000",
       "minecraft:cave_spider": "2024-12-19 04:03:54 +0000",
       "minecraft:enderman": "2024-12-19 02:17:33 +0000",
       "minecraft:stray": "2024-12-19 04:02:03 +0000",
@@ -3319,6 +3320,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_pirate_ship": "2024-12-19 04:56:19 +0000",
+      "entered_deep_crypt": "2024-12-20 05:10:21 +0000",
       "entered_druid_circle": "2024-12-19 02:49:07 +0000",
       "entered_ruined_building": "2024-12-19 04:51:14 +0000"
     },
@@ -4819,15 +4821,39 @@
     },
     "done": true
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2024-12-20 05:10:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-20 05:11:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-20 05:00:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-20 05:11:11 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/white_sand": {
     "criteria": {
       "has_sand": "2024-12-20 05:00:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-20 05:08:23 +0000"
     },
     "done": true
   },
