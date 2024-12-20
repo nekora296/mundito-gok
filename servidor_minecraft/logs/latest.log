@@ -2802,3 +2802,42 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Dec2024 04:39:04.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx left the game
 [20Dec2024 04:39:04.651] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ff4ae6bc-ecde-3b9d-bca1-ab72391660b6 was unloaded
 [20Dec2024 04:39:04.654] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xX_nekouraxD_Xx
+[20Dec2024 04:40:29.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHVERIN lost connection: Disconnected
+[20Dec2024 04:40:29.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHVERIN left the game
+[20Dec2024 04:40:29.245] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 482568a9-e9d1-3be4-84e4-0eeb14511e93 was unloaded
+[20Dec2024 04:40:29.247] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CHVERIN
+[20Dec2024 04:41:34.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xX_nekouraxD_Xx[/127.31.239.236:55445] logged in with entity id 6810 at (2192.638712651064, 67.5, -472.9525395401331)
+[20Dec2024 04:41:34.032] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xX_nekouraxD_Xx
+[20Dec2024 04:41:34.032] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xX_nekouraxD_Xx
+[20Dec2024 04:41:34.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xX_nekouraxD_Xx
+[20Dec2024 04:41:34.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xX_nekouraxD_Xx
+[20Dec2024 04:41:34.039] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xX_nekouraxD_Xx
+[20Dec2024 04:41:34.043] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xX_nekouraxD_Xx
+[20Dec2024 04:41:34.043] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xX_nekouraxD_Xx
+[20Dec2024 04:41:34.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx joined the game
+[20Dec2024 04:41:38.877] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xX_nekouraxD_Xx (18)
+[20Dec2024 04:41:38.878] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xX_nekouraxD_Xx
+[20Dec2024 04:41:39.074] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ff4ae6bc-ecde-3b9d-bca1-ab72391660b6 was loaded
+[20Dec2024 04:41:40.997] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[20Dec2024 04:41:43.029] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ff4ae6bc-ecde-3b9d-bca1-ab72391660b6
+[20Dec2024 04:41:44.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ff4ae6bc-ecde-3b9d-bca1-ab72391660b6
+[20Dec2024 04:41:44.033] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xX_nekouraxD_Xx (ff4ae6bc-ecde-3b9d-bca1-ab72391660b6) successfully connected to voice chat
+[20Dec2024 04:42:16.644] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[20Dec2024 04:45:17.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHVERIN[/127.184.113.71:41863] logged in with entity id 7179 at (2192.181718239108, 68.0, -474.1514616926163)
+[20Dec2024 04:45:17.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to CHVERIN
+[20Dec2024 04:45:17.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to CHVERIN
+[20Dec2024 04:45:17.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to CHVERIN
+[20Dec2024 04:45:17.674] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to CHVERIN
+[20Dec2024 04:45:17.676] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to CHVERIN
+[20Dec2024 04:45:17.679] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to CHVERIN
+[20Dec2024 04:45:17.679] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to CHVERIN
+[20Dec2024 04:45:17.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHVERIN joined the game
+[20Dec2024 04:45:22.948] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CHVERIN (18)
+[20Dec2024 04:45:22.948] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CHVERIN
+[20Dec2024 04:45:23.148] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 482568a9-e9d1-3be4-84e4-0eeb14511e93 was loaded
+[20Dec2024 04:45:25.148] [Server thread/INFO] [do_a_barrel_roll/]: Client of CHVERIN accepted server config.
+[20Dec2024 04:45:27.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 482568a9-e9d1-3be4-84e4-0eeb14511e93
+[20Dec2024 04:45:28.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 482568a9-e9d1-3be4-84e4-0eeb14511e93
+[20Dec2024 04:45:28.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CHVERIN (482568a9-e9d1-3be4-84e4-0eeb14511e93) successfully connected to voice chat
+[20Dec2024 04:45:43.913] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[20Dec2024 04:45:43.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xX_nekouraxD_Xx> grupo
