@@ -2778,3 +2778,27 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
   "<partial numeric data>",
   "[-120, -45, -11, 94, -36, -97, -2, -7, -110, 44, -64]"
 ]
+[20Dec2024 04:32:05.742] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[20Dec2024 04:32:46.250] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippocampus['Hippocampus'/2692, l='ServerLevel[world]', x=2399.50, y=13.50, z=-511.50]
+[20Dec2024 04:32:56.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHVERIN moved too quickly! 3.681815020067546,4.316617343394526,-9.804104686156961
+[20Dec2024 04:32:58.144] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[20Dec2024 04:33:19.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHVERIN fell from a high place
+[20Dec2024 04:33:19.698] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[20Dec2024 04:33:19.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[20Dec2024 04:33:19.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHVERIN has made the advancement [Your First Grave]
+[20Dec2024 04:33:19.751] [Server thread/INFO] [tombstone/]: The player CHVERIN has successfully been saved
+[20Dec2024 04:33:21.127] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Dec2024 04:33:21.128] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[20Dec2024 04:33:21.129] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[20Dec2024 04:33:21.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHVERIN has made the advancement [The Most Useful Key]
+[20Dec2024 04:33:21.285] [Server thread/INFO] [do_a_barrel_roll/]: Client of CHVERIN accepted server config.
+[20Dec2024 04:33:28.066] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[20Dec2024 04:34:03.090] [dimthread_server_overworld/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=11, y=63, z=-126}
+[20Dec2024 04:34:31.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xX_nekouraxD_Xx: Teleported CHVERIN to xX_nekouraxD_Xx]
+[20Dec2024 04:34:38.521] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[20Dec2024 04:34:38.535] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[20Dec2024 04:36:24.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHVERIN has made the advancement [Ahoy Captain]
+[20Dec2024 04:39:04.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xX_nekouraxD_Xx lost connection: Disconnected
+[20Dec2024 04:39:04.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx left the game
+[20Dec2024 04:39:04.651] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ff4ae6bc-ecde-3b9d-bca1-ab72391660b6 was unloaded
+[20Dec2024 04:39:04.654] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xX_nekouraxD_Xx
