@@ -2693,3 +2693,62 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
   "<partial numeric data>",
   "[-20, 7, -6, 121, 17, -52, 118, -18, -93, 8, -122]"
 ]
+[21Dec2024 04:36:40.439] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[21Dec2024 04:36:40.535] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[21Dec2024 04:36:43.491] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/misc/KryptonPipelineEvent
+[21Dec2024 04:36:43.493] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/velocitypowered/natives/util/BufferPreference
+[21Dec2024 04:36:43.498] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[21Dec2024 04:36:43.524] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/alrex/parcool/common/action/impl/ClingToCliff$FacingDirection
+[21Dec2024 04:36:43.610] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/PlayerModelPart
+[21Dec2024 04:36:43.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting stepsword/mahoutsukai/capability/settingsmahou/MahouSettings$Spell
+[21Dec2024 04:36:43.641] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tschipp/carryon/common/carry/CarryOnData$CarryType
+[21Dec2024 04:36:43.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xX_nekouraxD_Xx[/127.31.239.236:58505] logged in with entity id 1836 at (1964.6830027150352, -37.0, -1503.063112660618)
+[21Dec2024 04:36:43.654] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[21Dec2024 04:36:43.663] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[21Dec2024 04:36:43.705] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xX_nekouraxD_Xx
+[21Dec2024 04:36:43.706] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xX_nekouraxD_Xx
+[21Dec2024 04:36:43.707] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xX_nekouraxD_Xx
+[21Dec2024 04:36:43.708] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xX_nekouraxD_Xx
+[21Dec2024 04:36:43.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xX_nekouraxD_Xx
+[21Dec2024 04:36:43.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xX_nekouraxD_Xx
+[21Dec2024 04:36:43.716] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xX_nekouraxD_Xx
+[21Dec2024 04:36:43.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamresourceful/yabn/elements/YabnType
+[21Dec2024 04:36:43.874] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting nl/enjarai/doabarrelroll/net/HandshakeServer$HandshakeState
+[21Dec2024 04:36:43.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx joined the game
+[21Dec2024 04:36:43.882] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilityHandler
+[21Dec2024 04:36:43.900] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilitySection$AbilitySectionType
+[21Dec2024 04:36:43.903] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aetherteam/nitrogen/capability/INBTSynchable$Direction
+[21Dec2024 04:36:43.931] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[21Dec2024 04:36:43.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/network/Kind
+[21Dec2024 04:36:43.971] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/CMessageTBCapability$SyncType
+[21Dec2024 04:36:44.140] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[21Dec2024 04:36:44.322] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[21Dec2024 04:36:44.339] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting be/florens/expandability/EventResult
+[21Dec2024 04:36:44.356] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/alrex/parcool/common/action/StaminaConsumeTiming
+[21Dec2024 04:36:44.991] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Action
+[21Dec2024 04:36:44.995] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[21Dec2024 04:36:46.265] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[21Dec2024 04:36:46.755] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xX_nekouraxD_Xx (18)
+[21Dec2024 04:36:46.757] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xX_nekouraxD_Xx
+[21Dec2024 04:36:46.844] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[21Dec2024 04:36:46.927] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ff4ae6bc-ecde-3b9d-bca1-ab72391660b6 was loaded
+[21Dec2024 04:36:46.932] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[21Dec2024 04:36:47.927] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 04:36:49.104] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ff4ae6bc-ecde-3b9d-bca1-ab72391660b6
+[21Dec2024 04:36:50.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ff4ae6bc-ecde-3b9d-bca1-ab72391660b6
+[21Dec2024 04:36:50.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xX_nekouraxD_Xx (ff4ae6bc-ecde-3b9d-bca1-ab72391660b6) successfully connected to voice chat
+[21Dec2024 04:36:53.361] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[21Dec2024 04:37:10.349] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/silentchaos512/lib/advancements/UseItemTrigger$Target
+[21Dec2024 04:37:34.040] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[21Dec2024 04:37:34.492] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[21Dec2024 04:37:37.344] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[21Dec2024 04:37:52.548] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[21Dec2024 04:37:58.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/alrex/parcool/common/network/SyncActionStateMessage$DataType
+[21Dec2024 04:38:04.557] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[21Dec2024 04:38:38.986] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[21Dec2024 04:38:39.000] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[21Dec2024 04:39:07.048] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[21Dec2024 04:40:03.273] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[21Dec2024 04:40:35.792] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[21Dec2024 04:40:44.944] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [What Was That!?]
+[21Dec2024 04:46:10.592] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
