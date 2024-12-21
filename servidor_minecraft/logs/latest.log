@@ -2975,3 +2975,28 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [21Dec2024 04:59:03.378] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
 [21Dec2024 04:59:13.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Dragonslayer]
 [21Dec2024 05:00:23.769] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[21Dec2024 05:08:18.640] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/potionstudios/biomeswevegone/world/entity/manowar/ManOWar$Colors
+[21Dec2024 05:09:36.693] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Vex
+[21Dec2024 05:09:38.122] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 05:09:38.123] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Dec2024 05:09:38.349] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 05:09:47.496] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Vex
+[21Dec2024 05:09:47.503] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 05:09:48.753] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 05:09:48.754] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Dec2024 05:09:48.945] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 05:10:03.597] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was shot by Pillager
+[21Dec2024 05:10:05.003] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 05:10:05.004] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Dec2024 05:10:05.197] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 05:11:07.150] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 05:13:03.646] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was shot by Pillager
+[21Dec2024 05:13:03.655] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 05:13:04.967] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 05:13:04.968] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Dec2024 05:13:05.225] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 05:13:59.998] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{xX_nekouraxD_Xx})
+[21Dec2024 05:15:40.230] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[21Dec2024 05:15:40.232] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[21Dec2024 05:15:40.233] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[21Dec2024 05:15:40.246] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler

@@ -107,6 +107,7 @@
       "biomeswevegone:temperate_grove": "2024-12-18 02:32:19 +0000",
       "biomeswevegone:forgotten_forest": "2024-12-19 01:12:53 +0000",
       "biomeswevegone:firecracker_chaparral": "2024-12-19 03:09:52 +0000",
+      "biomeswevegone:lush_stacks": "2024-12-21 05:08:24 +0000",
       "biomeswevegone:ironwood_gour": "2024-12-21 04:56:14 +0000",
       "biomeswevegone:orchard": "2024-12-21 04:51:02 +0000",
       "biomeswevegone:prairie": "2024-12-17 21:29:16 +0000",
@@ -4911,6 +4912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 05:06:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
       "has_dragonscales_copper": "2024-12-21 04:59:18 +0000"
@@ -4935,6 +4942,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 05:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 05:06:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2024-12-21 04:56:47 +0000"
@@ -4953,6 +4972,30 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_1": {
+    "criteria": {
+      "has_cherry_plank": "2024-12-21 05:06:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_3": {
+    "criteria": {
+      "has_cherry_plank": "2024-12-21 05:06:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_2": {
+    "criteria": {
+      "has_cherry_plank": "2024-12-21 05:06:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_4": {
+    "criteria": {
+      "has_cherry_plank": "2024-12-21 05:06:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_helmet": {
     "criteria": {
       "has_item": "2024-12-21 04:59:18 +0000"
@@ -4962,6 +5005,18 @@
   "iceandfire:recipes/combat/armor_copper_boots": {
     "criteria": {
       "has_item": "2024-12-21 04:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-21 05:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 05:06:17 +0000"
     },
     "done": true
   },
@@ -5007,9 +5062,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/cherry_chest": {
+    "criteria": {
+      "has_cherry_plank": "2024-12-21 05:06:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2024-12-21 04:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 05:06:17 +0000"
     },
     "done": true
   },
@@ -5019,9 +5086,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 05:06:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2024-12-21 04:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 05:06:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_barrel": {
+    "criteria": {
+      "has_cherry_plank": "2024-12-21 05:06:17 +0000"
     },
     "done": true
   },
@@ -5031,15 +5116,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-12-21 05:04:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2024-12-21 04:56:47 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-21 05:04:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
       "has_item": "2024-12-21 04:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 05:06:17 +0000"
     },
     "done": true
   },
@@ -5058,6 +5161,12 @@
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2024-12-21 04:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 05:06:23 +0000"
     },
     "done": true
   },
