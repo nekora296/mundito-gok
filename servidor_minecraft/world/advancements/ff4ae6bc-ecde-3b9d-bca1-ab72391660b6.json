@@ -112,7 +112,8 @@
       "biomeswevegone:orchard": "2024-12-21 04:51:02 +0000",
       "biomeswevegone:prairie": "2024-12-17 21:29:16 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-17 21:27:29 +0000",
-      "biomeswevegone:baobab_savanna": "2024-12-21 04:56:11 +0000"
+      "biomeswevegone:baobab_savanna": "2024-12-21 04:56:11 +0000",
+      "biomeswevegone:rainbow_beach": "2024-12-21 05:18:27 +0000"
     },
     "done": false
   },
@@ -4912,6 +4913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2024-12-21 05:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2024-12-21 05:06:17 +0000"
@@ -5002,6 +5009,12 @@
     },
     "done": true
   },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2024-12-21 05:19:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_boots": {
     "criteria": {
       "has_item": "2024-12-21 04:59:18 +0000"
@@ -5017,6 +5030,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2024-12-21 05:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-21 05:22:43 +0000"
     },
     "done": true
   },

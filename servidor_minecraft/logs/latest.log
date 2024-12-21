@@ -3000,3 +3000,131 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [21Dec2024 05:15:40.232] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
 [21Dec2024 05:15:40.233] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
 [21Dec2024 05:15:40.246] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[21Dec2024 05:17:17.642] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was shot by Pillager
+[21Dec2024 05:17:18.930] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 05:17:18.930] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Dec2024 05:17:19.155] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 05:17:37.186] [dimthread_server_overworld/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=2519, y=76, z=-1671}
+[21Dec2024 05:18:47.841] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[21Dec2024 05:18:47.842] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[21Dec2024 05:18:47.846] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[21Dec2024 05:18:53.960] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[21Dec2024 05:18:55.917] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[21Dec2024 05:18:55.917] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[21Dec2024 05:18:55.918] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[21Dec2024 05:18:55.918] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[21Dec2024 05:18:56.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xX_nekouraxD_Xx moved too quickly! 2.1844329222403758,-0.4896382868862119,-9.920262123106568
+[21Dec2024 05:18:56.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
+[21Dec2024 05:18:56.129] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[21Dec2024 05:18:57.654] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[21Dec2024 05:18:57.654] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[21Dec2024 05:18:57.655] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[21Dec2024 05:18:57.655] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[21Dec2024 05:18:57.914] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[21Dec2024 05:18:57.914] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[21Dec2024 05:18:57.915] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[21Dec2024 05:18:57.915] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[21Dec2024 05:18:59.326] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[21Dec2024 05:18:59.326] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[21Dec2024 05:18:59.327] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[21Dec2024 05:18:59.327] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[21Dec2024 05:19:00.910] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[21Dec2024 05:19:00.910] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[21Dec2024 05:19:00.911] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[21Dec2024 05:19:01.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xX_nekouraxD_Xx moved too quickly! 9.58814324708419,-1.1767593106617227,-3.0058307622493885
+[21Dec2024 05:19:01.575] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[21Dec2024 05:19:18.146] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[21Dec2024 05:19:47.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Cover Me In Emeralds]
+[21Dec2024 05:20:23.498] [Server thread/INFO] [Scaling Health/]: Blight Carp was killed by xX_nekouraxD_Xx
+[21Dec2024 05:23:32.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 9.112030398395746,0.0,4.904693529368387
+[21Dec2024 05:23:32.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 9.468188947288127,0.0,5.08453954857282
+[21Dec2024 05:23:32.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 9.823409659833487,0.0,5.266333393669129
+[21Dec2024 05:23:32.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 10.178287050859126,0.0,5.44898272734099
+[21Dec2024 05:23:32.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 10.53328765698052,0.0,5.631580710172784
+[21Dec2024 05:23:32.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 10.88877042284139,0.0,5.813387679960215
+[21Dec2024 05:23:32.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 11.245007477619765,0.0,5.993806990855546
+[21Dec2024 05:23:32.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 11.602201630612853,0.0,6.172362458347834
+[21Dec2024 05:23:32.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 11.960499580341548,0.0,6.348680950570724
+[21Dec2024 05:23:32.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 12.320000211563183,0.0,6.522483398063059
+[21Dec2024 05:23:32.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 12.680767408375232,0.0,6.693562235388981
+[21Dec2024 05:23:32.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 13.042833885832351,0.0,6.861778594422049
+[21Dec2024 05:23:32.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 13.406209932040838,0.0,7.027045336281617
+[21Dec2024 05:23:32.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 13.770888113269848,0.0,7.189318750095254
+[21Dec2024 05:23:32.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 14.136846010986574,0.0,7.348594594832548
+[21Dec2024 05:23:32.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 14.504051076822634,0.0,7.504897225142486
+[21Dec2024 05:23:32.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 14.87246226768184,0.0,7.658276967410302
+[21Dec2024 05:23:32.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 15.242032661000394,0.0,7.808804080413893
+[21Dec2024 05:23:32.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 15.612711659470278,0.0,7.956563270556671
+[21Dec2024 05:23:32.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 15.984446874706464,0.0,8.101648709009623
+[21Dec2024 05:23:32.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 16.35718455967435,0.0,8.244163173710376
+[21Dec2024 05:23:32.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 16.730869979248382,0.0,8.384217266916949
+[21Dec2024 05:23:32.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 17.105448838949997,0.0,8.521925033214302
+[21Dec2024 05:23:32.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 17.480868503755573,0.0,8.657399988711177
+[21Dec2024 05:23:32.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 17.85707683377359,0.0,8.790758884276784
+[21Dec2024 05:23:32.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 18.234024433235845,0.0,8.922114060938156
+[21Dec2024 05:23:32.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 18.611662282471116,0.0,9.051581274389491
+[21Dec2024 05:23:32.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 18.989945000902935,0.0,9.179268331323101
+[21Dec2024 05:23:32.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 19.368828385802317,0.0,9.305283260404394
+[21Dec2024 05:23:32.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 19.748270412088914,0.0,9.42973062532019
+[21Dec2024 05:23:32.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 20.128232102351376,0.0,9.552708190690055
+[21Dec2024 05:23:32.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 20.50867619017572,0.0,9.67431129746069
+[21Dec2024 05:23:32.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 20.889568025652807,0.0,9.794629423755396
+[21Dec2024 05:23:32.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 21.270874285549326,0.0,9.91375046664507
+[21Dec2024 05:23:32.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 21.652563902347083,0.0,10.031757214077743
+[21Dec2024 05:23:32.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 22.034607846121617,0.0,10.148727857654421
+[21Dec2024 05:23:32.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 22.416979960139997,0.0,10.264732762363337
+[21Dec2024 05:23:32.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 22.79965462090513,0.0,10.37984264021793
+[21Dec2024 05:23:32.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 23.182608752370015,0.0,10.494121125508855
+[21Dec2024 05:23:32.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 23.565820546736177,0.0,10.607629180859249
+[21Dec2024 05:23:32.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 23.94926934508021,0.0,10.720425367185271
+[21Dec2024 05:23:32.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 24.332936546921246,0.0,10.832562385584197
+[21Dec2024 05:23:32.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 24.716805396925793,0.0,10.944087665180177
+[21Dec2024 05:23:32.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 25.100859798289548,0.0,11.055047587671652
+[21Dec2024 05:23:32.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 25.4850842394344,0.0,11.16548759393686
+[21Dec2024 05:23:32.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 25.869464756215166,0.0,11.275448579833437
+[21Dec2024 05:23:32.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 26.25398878090118,0.0,11.384967349770022
+[21Dec2024 05:23:32.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 26.60006039395057,0.0,11.48353424010179
+[21Dec2024 05:23:32.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 26.911524837444176,0.0,11.572244439050337
+[21Dec2024 05:23:32.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 27.191842829162397,0.0,11.652083615989113
+[21Dec2024 05:23:32.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 27.444129015025737,0.0,11.723938873330553
+[21Dec2024 05:23:32.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 27.67118657628771,0.0,11.788608603224702
+[21Dec2024 05:23:32.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 27.8755383760099,0.0,11.846811358587502
+[21Dec2024 05:23:32.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 28.059454990887843,0.0,11.89919383702636
+[21Dec2024 05:23:32.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 28.224979939893274,0.0,11.946338066372391
+[21Dec2024 05:23:32.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 28.373952390051727,0.0,11.988767871659775
+[21Dec2024 05:23:32.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 28.50802759164253,0.0,12.026954695406857
+[21Dec2024 05:23:32.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 28.628695269877426,0.0,12.06132283586885
+[21Dec2024 05:23:32.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 28.73729617741219,0.0,12.092254161465235
+[21Dec2024 05:23:32.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 28.83503699160383,0.0,12.120092353764448
+[21Dec2024 05:23:32.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 28.92300372204636,0.0,12.145146726169969
+[21Dec2024 05:23:32.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 29.002173777347252,0.0,12.167695660737763
+[21Dec2024 05:23:32.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 29.0734268252304,0.0,12.187989701311153
+[21Dec2024 05:23:32.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4336ms or 86 ticks behind
+[21Dec2024 05:23:32.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 20.382930261111596,0.0,7.478888863947077
+[21Dec2024 05:23:32.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 20.440645226839024,0.0,7.495327035940591
+[21Dec2024 05:23:32.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xX_nekouraxD_Xx) moved too quickly! 20.492588694617552,0.0,7.510121390342874
+[21Dec2024 05:25:50.045] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Fire Dragon
+[21Dec2024 05:25:50.054] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 05:25:51.545] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 05:25:51.545] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Dec2024 05:25:51.717] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 05:25:56.597] [dimthread_server_overworld/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/42485, l='ServerLevel[world]', x=3239.00, y=108.00, z=-1503.00, removed=DISCARDED]
+[21Dec2024 05:26:10.143] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Fire Dragon
+[21Dec2024 05:26:10.151] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 05:26:10.190] [dimthread_server_overworld/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[21Dec2024 05:26:11.495] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 05:26:11.496] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Dec2024 05:26:11.756] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 05:26:16.366] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/42485, l='ServerLevel[world]', x=3239.00, y=108.00, z=-1503.00, removed=DISCARDED]
+[21Dec2024 05:26:39.742] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was incinerated by Fire Dragon
+[21Dec2024 05:26:39.750] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 05:26:41.142] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 05:26:41.142] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Dec2024 05:26:41.348] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 05:26:45.713] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/42485, l='ServerLevel[world]', x=3239.00, y=108.00, z=-1503.00, removed=DISCARDED]
+[21Dec2024 05:27:04.795] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Fire Dragon
+[21Dec2024 05:27:04.804] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 05:27:09.049] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 05:27:09.050] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Dec2024 05:27:09.268] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 05:27:14.909] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/42485, l='ServerLevel[world]', x=3239.00, y=108.00, z=-1503.00, removed=DISCARDED]
