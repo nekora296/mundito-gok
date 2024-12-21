@@ -2917,3 +2917,61 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [21Dec2024 04:56:16.494] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
 [21Dec2024 04:56:16.496] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [21Dec2024 04:56:16.502] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[21Dec2024 04:57:09.693] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was struck with lightning by Lightning Dragon
+[21Dec2024 04:57:09.704] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 04:57:11.420] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 04:57:11.420] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Dec2024 04:57:11.698] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 04:57:22.045] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was energized by Lightning Dragon
+[21Dec2024 04:57:22.058] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 04:57:23.378] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 04:57:23.379] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Dec2024 04:57:23.549] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 04:57:33.093] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was struck with lightning by Lightning Dragon
+[21Dec2024 04:57:33.103] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 04:57:34.418] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 04:57:34.419] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Dec2024 04:57:34.596] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 04:57:42.342] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Lightning Dragon
+[21Dec2024 04:57:42.354] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 04:57:43.805] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 04:57:43.805] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Dec2024 04:57:44.060] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 04:57:53.994] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was struck with lightning by Lightning Dragon
+[21Dec2024 04:57:54.005] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 04:57:55.292] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 04:57:55.292] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Dec2024 04:57:55.500] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 04:58:05.644] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was struck with lightning by Lightning Dragon
+[21Dec2024 04:58:05.653] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 04:58:06.898] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 04:58:06.898] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Dec2024 04:58:07.095] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 04:58:17.943] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Lightning Dragon
+[21Dec2024 04:58:17.953] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 04:58:19.281] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 04:58:19.282] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Dec2024 04:58:19.489] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[21Dec2024 04:58:19.499] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 04:58:29.243] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Lightning Dragon
+[21Dec2024 04:58:29.254] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 04:58:30.585] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 04:58:30.585] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Dec2024 04:58:30.846] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 04:58:40.594] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Lightning Dragon
+[21Dec2024 04:58:40.605] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 04:58:41.972] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 04:58:41.973] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Dec2024 04:58:42.230] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 04:58:51.445] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was slain by Lightning Dragon
+[21Dec2024 04:58:51.456] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 04:58:52.852] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 04:58:52.853] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Dec2024 04:58:53.054] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 04:59:01.893] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx was energized by Lightning Dragon
+[21Dec2024 04:59:01.905] [Server thread/INFO] [tombstone/]: The player xX_nekouraxD_Xx has successfully been saved
+[21Dec2024 04:59:03.211] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Dec2024 04:59:03.212] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Dec2024 04:59:03.378] [Server thread/INFO] [do_a_barrel_roll/]: Client of xX_nekouraxD_Xx accepted server config.
+[21Dec2024 04:59:13.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xX_nekouraxD_Xx has made the advancement [Dragonslayer]
+[21Dec2024 05:00:23.769] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
