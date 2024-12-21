@@ -106,6 +106,7 @@
       "biomeswevegone:temperate_grove": "2024-12-18 02:32:19 +0000",
       "biomeswevegone:forgotten_forest": "2024-12-19 01:12:53 +0000",
       "biomeswevegone:firecracker_chaparral": "2024-12-19 03:09:52 +0000",
+      "biomeswevegone:orchard": "2024-12-21 04:51:02 +0000",
       "biomeswevegone:prairie": "2024-12-17 21:29:16 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-17 21:27:29 +0000"
     },
@@ -1444,6 +1445,7 @@
       "minecraft:deep_ocean": "2024-12-19 04:54:16 +0000",
       "minecraft:cherry_grove": "2024-12-19 02:36:26 +0000",
       "minecraft:sunflower_plains": "2024-12-19 03:46:20 +0000",
+      "minecraft:beach": "2024-12-21 04:51:01 +0000",
       "minecraft:stony_peaks": "2024-12-19 03:06:28 +0000",
       "minecraft:river": "2024-12-19 01:12:45 +0000",
       "minecraft:stony_shore": "2024-12-19 04:48:56 +0000",
@@ -4912,9 +4914,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-21 04:48:29 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:creeperling": {
     "criteria": {
       "encountered_creeperling": "2024-12-21 04:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-21 04:48:29 +0000"
     },
     "done": true
   },
