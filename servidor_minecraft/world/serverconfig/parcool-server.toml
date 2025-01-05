@@ -90,6 +90,8 @@
 			stamina_consumption_of_WallSlide = 8
 
 	[Limitations.Control]
+		#Allow disabling cooldown of wall jump
+		allow_disabling_wall_jump_cooldown = true
 		#How long duration of dodge is deal as successive dodge
 		#Range: > 0
 		least_successive_dodge_cool_time = 0
@@ -100,20 +102,20 @@
 		#Range: > 1
 		max_successive_dodge_count = 2147483647
 
-		[Limitations.Control.Modifier]
-			#How long you can do Horizontal Wall Run
-			#Range: 15 ~ 40
-			wall-run_continuable_tick = 40
-			#How long you can do Slide
-			#Range: 10 ~ 30
-			sliding_continuable_tick = 30
-			#FastRun speed modifier
-			#Range: 0.001 ~ 4.0
-			max_fast-run_modifier = 2.0
-			#FastSwim speed modifier
-			#Range: 0.001 ~ 4.0
-			max_fast-swim_modifier = 2.0
-			#Dodge speed modifier
-			#Range: 0.5 ~ 1.5
-			max_dodge-speed_modifier = 1.0
+	[Limitations.Modifier]
+		#How long you can do Horizontal Wall Run
+		#Range: 15 ~ 100
+		wall-run_continuable_tick = 40
+		#How long you can do Slide
+		#Range: 10 ~ 60
+		sliding_continuable_tick = 30
+		#FastRun speed modifier
+		#Range: 0.001 ~ 10.0
+		max_fast-run_modifier = 2.0
+		#FastSwim speed modifier
+		#Range: 0.001 ~ 10.0
+		max_fast-swim_modifier = 2.0
+		#Dodge speed modifier
+		#Range: 0.5 ~ 3.0
+		max_dodge-speed_modifier = 1.0
 

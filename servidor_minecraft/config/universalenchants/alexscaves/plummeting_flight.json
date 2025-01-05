@@ -4,6 +4,7 @@
     "$minecraft:extinction_spear"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

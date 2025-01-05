@@ -5,8 +5,8 @@
     "alexsmobs:pigshoes"
   ],
   "incompatible": [
-    "minecraft:soul_speed",
     "endlessbiomes:vwooping",
-    "majruszsenchantments:incompatibility_curse"
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:soul_speed"
   ]
 }

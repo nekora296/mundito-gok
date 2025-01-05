@@ -10,11 +10,13 @@
     "blue_skies:dusk_spear",
     "blue_skies:maple_spear",
     "blue_skies:comet_spear",
+    "aether_redux:spear_of_the_blight",
     "cataclysm:coral_spear",
     "cataclysm:coral_bardiche"
   ],
   "incompatible": [
-    "minecraft:riptide",
-    "majruszsenchantments:incompatibility_curse"
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:riptide"
   ]
 }

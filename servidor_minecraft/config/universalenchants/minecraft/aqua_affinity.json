@@ -8,6 +8,7 @@
     "lost_aether_content:swetty_mask"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

@@ -4,6 +4,7 @@
     "$minecraft:primitive_club"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

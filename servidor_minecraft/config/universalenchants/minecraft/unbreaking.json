@@ -4,8 +4,8 @@
     "$minecraft:breakable"
   ],
   "incompatible": [
-    "majruszsenchantments:breaking_curse",
     "majruszsenchantments:incompatibility_curse",
-    "alexscaves:taxing_bellow"
+    "alexscaves:taxing_bellow",
+    "majruszsenchantments:breaking_curse"
   ]
 }

@@ -22,11 +22,11 @@
     "mahoutsukai:proximity_projection_keys"
   ],
   "incompatible": [
-    "minecraft:sharpness",
-    "minecraft:smite",
-    "deeperdarker:sculk_smite",
+    "minecraft:bane_of_arthropods",
     "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse",
-    "minecraft:bane_of_arthropods"
+    "deeperdarker:sculk_smite",
+    "minecraft:smite",
+    "minecraft:sharpness"
   ]
 }

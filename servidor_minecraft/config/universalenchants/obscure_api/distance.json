@@ -4,6 +4,7 @@
     "$minecraft:dynamic_projectile_distance"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

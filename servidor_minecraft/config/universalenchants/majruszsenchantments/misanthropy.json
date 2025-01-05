@@ -5,9 +5,10 @@
   ],
   "incompatible": [
     "minecraft:bane_of_arthropods",
-    "minecraft:sharpness",
-    "minecraft:smite",
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse",
-    "deeperdarker:sculk_smite"
+    "deeperdarker:sculk_smite",
+    "minecraft:smite",
+    "minecraft:sharpness"
   ]
 }

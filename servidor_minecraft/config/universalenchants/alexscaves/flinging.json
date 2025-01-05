@@ -4,6 +4,7 @@
     "$minecraft:ortholance"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

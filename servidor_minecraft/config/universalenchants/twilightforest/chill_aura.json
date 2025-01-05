@@ -9,6 +9,7 @@
   ],
   "incompatible": [
     "minecraft:thorns",
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse",
     "twilightforest:fire_react"
   ]

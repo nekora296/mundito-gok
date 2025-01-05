@@ -5,6 +5,7 @@
   ],
   "incompatible": [
     "alexscaves:double_stab",
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

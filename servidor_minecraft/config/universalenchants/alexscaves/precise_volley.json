@@ -5,6 +5,7 @@
   ],
   "incompatible": [
     "alexscaves:relentless_darkness",
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

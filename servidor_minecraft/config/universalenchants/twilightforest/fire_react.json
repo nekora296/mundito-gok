@@ -8,8 +8,9 @@
     "lost_aether_content:swetty_mask"
   ],
   "incompatible": [
-    "twilightforest:chill_aura",
     "minecraft:thorns",
-    "majruszsenchantments:incompatibility_curse"
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse",
+    "twilightforest:chill_aura"
   ]
 }

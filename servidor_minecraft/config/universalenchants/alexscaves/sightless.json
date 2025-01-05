@@ -4,6 +4,7 @@
     "$minecraft:totem_of_possession"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

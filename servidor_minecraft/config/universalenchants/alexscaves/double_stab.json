@@ -4,7 +4,8 @@
     "$minecraft:desolate_dagger"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
-    "alexscaves:impending_stab"
+    "alexscaves:impending_stab",
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

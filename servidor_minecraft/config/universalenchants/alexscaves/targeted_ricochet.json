@@ -5,6 +5,7 @@
   ],
   "incompatible": [
     "alexscaves:triple_split",
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

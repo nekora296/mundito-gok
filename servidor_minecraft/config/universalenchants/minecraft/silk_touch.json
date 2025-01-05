@@ -5,10 +5,11 @@
     "twilightforest:block_and_chain"
   ],
   "incompatible": [
-    "minecraft:looting",
-    "majruszsenchantments:smelter",
-    "minecraft:luck_of_the_sea",
+    "minecraft:fortune",
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse",
-    "minecraft:fortune"
+    "minecraft:luck_of_the_sea",
+    "majruszsenchantments:smelter",
+    "minecraft:looting"
   ]
 }

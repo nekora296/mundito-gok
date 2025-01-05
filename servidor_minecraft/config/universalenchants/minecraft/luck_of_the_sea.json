@@ -4,7 +4,8 @@
     "$minecraft:fishing_rod"
   ],
   "incompatible": [
-    "minecraft:silk_touch",
-    "majruszsenchantments:incompatibility_curse"
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:silk_touch"
   ]
 }

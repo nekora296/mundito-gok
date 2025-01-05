@@ -4,7 +4,8 @@
     "$minecraft:breakable"
   ],
   "incompatible": [
-    "minecraft:unbreaking",
-    "majruszsenchantments:incompatibility_curse"
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:unbreaking"
   ]
 }

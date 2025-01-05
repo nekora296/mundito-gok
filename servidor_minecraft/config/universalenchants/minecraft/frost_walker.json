@@ -6,7 +6,8 @@
     "$minecraft:universal_enchants_horse_armor"
   ],
   "incompatible": [
-    "minecraft:depth_strider",
-    "majruszsenchantments:incompatibility_curse"
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:depth_strider"
   ]
 }

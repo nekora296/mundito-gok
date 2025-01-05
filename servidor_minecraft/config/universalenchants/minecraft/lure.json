@@ -4,6 +4,7 @@
     "$minecraft:fishing_rod"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

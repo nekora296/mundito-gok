@@ -4,9 +4,10 @@
     "$minecraft:dreadbow"
   ],
   "incompatible": [
-    "alexscaves:precise_volley",
-    "alexscaves:twilight_perfection",
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse",
     "alexscaves:dark_nock",
-    "majruszsenchantments:incompatibility_curse"
+    "alexscaves:precise_volley",
+    "alexscaves:twilight_perfection"
   ]
 }

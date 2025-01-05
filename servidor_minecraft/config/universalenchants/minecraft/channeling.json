@@ -6,7 +6,8 @@
     "cataclysm:coral_bardiche"
   ],
   "incompatible": [
-    "minecraft:riptide",
-    "majruszsenchantments:incompatibility_curse"
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:riptide"
   ]
 }

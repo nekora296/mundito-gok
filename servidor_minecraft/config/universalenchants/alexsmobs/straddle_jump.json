@@ -4,6 +4,7 @@
     "$minecraft:straddleboard"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

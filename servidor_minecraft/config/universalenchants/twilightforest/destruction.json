@@ -4,6 +4,7 @@
     "$minecraft:twilightforest_block_and_chain"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

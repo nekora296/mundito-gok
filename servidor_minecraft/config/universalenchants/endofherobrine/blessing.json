@@ -5,6 +5,7 @@
     "mowziesmobs:spear",
     "mowziesmobs:naga_fang_dagger",
     "mutantmonsters:endersoul_hand",
+    "aether_redux:spear_of_the_blight",
     "cataclysm:gauntlet_of_guard",
     "cataclysm:gauntlet_of_bulwark",
     "cataclysm:gauntlet_of_maelstrom",
@@ -21,9 +22,10 @@
   ],
   "incompatible": [
     "minecraft:bane_of_arthropods",
-    "minecraft:sharpness",
-    "minecraft:smite",
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse",
-    "deeperdarker:sculk_smite"
+    "deeperdarker:sculk_smite",
+    "minecraft:smite",
+    "minecraft:sharpness"
   ]
 }

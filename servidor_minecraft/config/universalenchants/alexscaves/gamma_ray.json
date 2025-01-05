@@ -4,7 +4,8 @@
     "$minecraft:raygun"
   ],
   "incompatible": [
-    "alexscaves:x_ray",
-    "majruszsenchantments:incompatibility_curse"
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse",
+    "alexscaves:x_ray"
   ]
 }

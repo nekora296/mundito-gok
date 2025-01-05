@@ -4,6 +4,7 @@
     "$minecraft:candy_cane_hook"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

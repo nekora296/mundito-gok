@@ -6,8 +6,9 @@
     "$minecraft:universal_enchants_shield"
   ],
   "incompatible": [
-    "twilightforest:chill_aura",
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse",
-    "twilightforest:fire_react"
+    "twilightforest:fire_react",
+    "twilightforest:chill_aura"
   ]
 }

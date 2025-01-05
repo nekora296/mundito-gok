@@ -4,6 +4,7 @@
     "$minecraft:desolate_dagger"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

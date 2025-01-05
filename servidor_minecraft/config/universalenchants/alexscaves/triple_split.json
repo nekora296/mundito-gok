@@ -4,6 +4,7 @@
     "$minecraft:shot_gum"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse",
     "alexscaves:targeted_ricochet"
   ]

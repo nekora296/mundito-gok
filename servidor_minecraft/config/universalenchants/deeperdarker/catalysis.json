@@ -5,6 +5,7 @@
     "mowziesmobs:spear",
     "mowziesmobs:naga_fang_dagger",
     "mutantmonsters:endersoul_hand",
+    "aether_redux:spear_of_the_blight",
     "twilightforest:block_and_chain",
     "cataclysm:gauntlet_of_guard",
     "cataclysm:gauntlet_of_bulwark",
@@ -21,6 +22,7 @@
     "mahoutsukai:proximity_projection_keys"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

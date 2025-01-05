@@ -5,6 +5,7 @@
   ],
   "incompatible": [
     "alexscaves:bouncing_bolt",
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

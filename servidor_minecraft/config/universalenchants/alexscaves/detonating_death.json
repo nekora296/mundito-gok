@@ -5,6 +5,7 @@
   ],
   "incompatible": [
     "alexscaves:astral_transferring",
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

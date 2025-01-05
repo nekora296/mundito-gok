@@ -5,6 +5,7 @@
   ],
   "incompatible": [
     "alexscaves:gamma_ray",
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

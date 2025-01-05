@@ -4,7 +4,8 @@
     "$minecraft:ortholance"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
-    "alexscaves:tsunami"
+    "alexscaves:tsunami",
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

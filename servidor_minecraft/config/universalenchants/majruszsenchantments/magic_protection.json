@@ -9,10 +9,11 @@
   ],
   "incompatible": [
     "minecraft:protection",
-    "minecraft:feather_falling",
-    "minecraft:projectile_protection",
     "minecraft:blast_protection",
+    "minecraft:projectile_protection",
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse",
     "minecraft:fire_protection",
-    "majruszsenchantments:incompatibility_curse"
+    "minecraft:feather_falling"
   ]
 }

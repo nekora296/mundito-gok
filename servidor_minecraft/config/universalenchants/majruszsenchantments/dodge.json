@@ -4,6 +4,7 @@
     "$minecraft:armor_legs"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

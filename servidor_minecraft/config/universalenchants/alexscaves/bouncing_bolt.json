@@ -4,7 +4,8 @@
     "$minecraft:sea_staff"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
-    "alexscaves:triple_splash"
+    "alexscaves:triple_splash",
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

@@ -3,6 +3,7 @@
   "items": [
     "$minecraft:weapon",
     "mowziesmobs:spear",
+    "aether_redux:spear_of_the_blight",
     "cataclysm:the_incinerator",
     "cataclysm:ancient_spear",
     "mahoutsukai:proximity_projection_keys",
@@ -10,6 +11,7 @@
     "$minecraft:trident"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

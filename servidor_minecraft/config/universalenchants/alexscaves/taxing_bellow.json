@@ -4,8 +4,9 @@
     "$minecraft:magic_conch"
   ],
   "incompatible": [
-    "minecraft:unbreaking",
+    "endlessbiomes:vwooping",
+    "majruszsenchantments:incompatibility_curse",
     "minecraft:mending",
-    "majruszsenchantments:incompatibility_curse"
+    "minecraft:unbreaking"
   ]
 }

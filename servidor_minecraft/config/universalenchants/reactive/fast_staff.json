@@ -4,6 +4,7 @@
     "$minecraft:speed_able_staves"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

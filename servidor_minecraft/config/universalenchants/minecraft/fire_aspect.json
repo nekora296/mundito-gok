@@ -5,6 +5,7 @@
     "mowziesmobs:spear",
     "mowziesmobs:naga_fang_dagger",
     "mutantmonsters:endersoul_hand",
+    "aether_redux:spear_of_the_blight",
     "cataclysm:gauntlet_of_guard",
     "cataclysm:gauntlet_of_bulwark",
     "cataclysm:gauntlet_of_maelstrom",
@@ -22,6 +23,7 @@
     "$minecraft:trident"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

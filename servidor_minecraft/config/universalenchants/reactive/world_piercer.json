@@ -4,6 +4,7 @@
     "$minecraft:displacer"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

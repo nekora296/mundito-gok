@@ -4,6 +4,7 @@
     "$minecraft:galena_gauntlet"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }

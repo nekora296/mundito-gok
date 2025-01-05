@@ -7,6 +7,7 @@
     "mutantmonsters:endersoul_hand",
     "blue_skies:spike_shield",
     "blue_skies:crushing_hammer",
+    "aether_redux:spear_of_the_blight",
     "twilightforest:block_and_chain",
     "cataclysm:gauntlet_of_guard",
     "cataclysm:gauntlet_of_bulwark",
@@ -25,11 +26,13 @@
     "$minecraft:trident"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:misanthropy",
-    "minecraft:impaling",
-    "endofherobrine:blessing",
-    "minecraft:smite",
     "majruszsenchantments:incompatibility_curse",
-    "deeperdarker:sculk_smite"
+    "deeperdarker:sculk_smite",
+    "minecraft:impaling",
+    "minecraft:smite",
+    "endofherobrine:blessing",
+    "midnight:cleansing_edge"
   ]
 }

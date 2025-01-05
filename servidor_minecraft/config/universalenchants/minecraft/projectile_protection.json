@@ -10,8 +10,8 @@
   ],
   "incompatible": [
     "minecraft:blast_protection",
-    "minecraft:fire_protection",
     "majruszsenchantments:incompatibility_curse",
+    "minecraft:fire_protection",
     "majruszsenchantments:magic_protection"
   ]
 }

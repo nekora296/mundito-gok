@@ -9,6 +9,7 @@
     "$minecraft:universal_enchants_horse_armor"
   ],
   "incompatible": [
+    "endlessbiomes:vwooping",
     "majruszsenchantments:incompatibility_curse"
   ]
 }
